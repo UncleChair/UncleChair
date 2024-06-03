@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**UncleChair/UncleChair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🌟
 
-Here are some ideas to get you started:
+## GitHub Stats
+![Chair's GitHub stats]([https://github-readme-stats.vercel.app/api?username=jacobsomer&show_icons=true&theme=cobalt](https://github-readme-stats.vercel.app/api?username=unclechair&show_icons=true&theme=cobalt))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/jacobsomer)
+- [X](https://x.com/jacobsomer)
+- [Personal Website](https://www.jacobsomer.com)
+
+## Skills
+
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=c,js,go,php)
+
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=vue,vuetify,html,css)
+
+#### Backend Technologies
+[![Backend Technologies](https://skillicons.dev/icons?i=laravel,docker)](https://skillicons.dev)
+
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=mysql,redis)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,ps.pr,figma)
+
+
+
