@@ -3,12 +3,7 @@
 Welcome to my GitHub profile! 🌟
 
 ## GitHub Stats
-![Chair's GitHub stats]([https://github-readme-stats.vercel.app/api?username=jacobsomer&show_icons=true&theme=cobalt](https://github-readme-stats.vercel.app/api?username=unclechair&show_icons=true&theme=cobalt))
-
-## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/jacobsomer)
-- [X](https://x.com/jacobsomer)
-- [Personal Website](https://www.jacobsomer.com)
+![UncleChair's GitHub stats](https://github-readme-stats.vercel.app/api?username=unclechair&show_icons=true&theme=cobalt)
 
 ## Skills
 
