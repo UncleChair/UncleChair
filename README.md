@@ -8,10 +8,10 @@ Welcome to my GitHub profile! 🌟
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,js,go,php)
+![Languages](https://skillicons.dev/icons?i=c,js,go,php,py)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=vue,vuetify,html,css)
+![Frontend Technologies](https://skillicons.dev/icons?i=vue,pinia,vite,vuetify,html,css)
 
 #### Backend Technologies
 [![Backend Technologies](https://skillicons.dev/icons?i=laravel,docker)](https://skillicons.dev)
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! 🌟
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,redis)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,ps,pr,figma)
+![Others](https://skillicons.dev/icons?i=ubuntu,git,md,ps,pr,figma,firebase,postman)
 
 
 
