@@ -14,7 +14,7 @@ Welcome to my GitHub profile! 🌟
 ![Frontend Technologies](https://skillicons.dev/icons?i=vue,pinia,vite,vuetify,html,css)
 
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=laravel,docker)](https://skillicons.dev)
+![Backend Technologies](https://skillicons.dev/icons?i=laravel,docker,nginx)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,redis)
