@@ -14,10 +14,10 @@ Welcome to my GitHub profile! 🌟
 ![Frontend Technologies](https://skillicons.dev/icons?i=vue,pinia,vite,vuetify,html,css)
 
 #### Backend Technologies
-![Backend Technologies](https://skillicons.dev/icons?i=laravel,docker,nginx)
+![Backend Technologies](https://skillicons.dev/icons?i=laravel,docker,sqlite,nginx)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql,redis)
+![Database & Tools](https://skillicons.dev/icons?i=mysql,redis,postgres)
 
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=ubuntu,git,md,ps,pr,figma,firebase,postman)
