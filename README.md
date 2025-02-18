@@ -1,8 +1,7 @@
-# Hi there! 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Welcome+to+my+Github+profile!;" />
+</h1>
 
-Welcome to my GitHub profile! 🌟
-
-## GitHub Stats
 ![UncleChair's GitHub stats](https://github-readme-stats.vercel.app/api?username=unclechair&show_icons=true&theme=cobalt)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UncleChair&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
