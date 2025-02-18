@@ -5,6 +5,8 @@ Welcome to my GitHub profile! 🌟
 ## GitHub Stats
 ![UncleChair's GitHub stats](https://github-readme-stats.vercel.app/api?username=unclechair&show_icons=true&theme=cobalt)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UncleChair&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+
 ## Skills
 
 #### Programming Languages
